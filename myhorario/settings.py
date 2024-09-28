@@ -25,8 +25,7 @@ SECRET_KEY = 'django-insecure-@m%f!d(xbu@l4alm%e0uho%q93#uph5uc1qyb+6(4j7f2!k-i6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['horario-backend-5wkl.onrender.com']
-
+ALLOWED_HOSTS = ['horario-backend-5wkl.onrender.com', '127.0.0.1', 'localhost']
 
 # Application definition
 #Verificar que el app que se creo esté registrada aquí
